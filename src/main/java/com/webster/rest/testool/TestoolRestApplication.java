@@ -1,4 +1,4 @@
-package com.webster.rest.TestoolRest;
+package com.webster.rest.testool;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

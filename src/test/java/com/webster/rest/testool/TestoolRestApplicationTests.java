@@ -1,4 +1,4 @@
-package com.webster.rest.TestoolRest;
+package com.webster.rest.testool;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
